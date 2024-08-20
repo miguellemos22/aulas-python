@@ -9,10 +9,10 @@ nota3 = float(input("digite sua terceira nota: "))
 media = (nota1 + nota2 + nota3) /3
 
 if media < 7:
-    print("reprovado")
+    resultado = "reprovado"
 
 else:
-    print("aprovado")
+    resultado = "aprovado"
 
 print(f"nome do aluno: {nome}")
 print(f"idade do aluno: {idade}")
@@ -20,3 +20,4 @@ print(f"primeira nota: {nota1}")
 print(f"segunda nota: {nota2}")
 print(f"terceira nota: {nota3}")
 print(f"media do aluno: {media}")
+print(f"resultado: {resultado}")
