@@ -18,8 +18,12 @@ while True:
             break
     else: 
             print("tente novamente")
+            print(f"tentativa: {contador} \n")
             if contador == 3:
                    break
+                   
+            
+print("==== FIM ====")
             
         
      
