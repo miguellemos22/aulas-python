@@ -18,6 +18,3 @@ idade = input("digite sua idade: ")
 
 logo_senai()
 nota = input("digite uam nota: ")
-
-
-
