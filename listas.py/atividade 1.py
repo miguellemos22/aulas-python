@@ -12,4 +12,5 @@ n2 = int(input("digite o segundo numero: "))
 soma = n1 + n2
 media = media(n1, n2)
 
+
 print(f"media: {media}")
