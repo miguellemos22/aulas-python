@@ -1,7 +1,7 @@
 import os 
 os.system("cls || clear ")
 
-lista_de_numeros = []
+
 numeros_inteiros = 5
 contador_pares = 0
 contador_impares = 0
